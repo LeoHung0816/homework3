@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">溫度計算</string>
+    <string name="input">輸入溫度</string>
+    <string name="number">請輸入溫度</string>
+    <string name="charF">"\u2109"</string>
+    <string name="charC">"\u2103"</string>
+
+</resources>
